@@ -1,23 +1,3 @@
-# Aluraflix
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 body{
    color :black;
